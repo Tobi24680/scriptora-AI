@@ -1,0 +1,5 @@
+streamlit
+crewai
+litellm
+reportlab
+python-dotenv

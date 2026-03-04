@@ -1,0 +1,17 @@
+# Local Environment
+.env
+.venv
+venv/
+env/
+
+# Python Caches
+__pycache__/
+*.py[cod]
+
+# Streamlit/OS
+.streamlit/config.toml
+.DS_Store
+
+# CrewAI/Agents
+*.log
+.crewai/
